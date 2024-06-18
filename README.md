@@ -1,7 +1,7 @@
-# Alignedlayer-Testnet-Proof
+### Alignedlayer-Testnet-Proof
 Aligned works with EigenLayer to leverage ethereum consensus mechanism for ZK proof verification. Working outside the EVM, this allows for cheap verification of any proving system. This enables the usage of cutting edge algorithms, that may use new techniques to prove even faster. 
 
-# ALIGNEDLAYER PUBLIC PROOF TASK  
+### ALIGNEDLAYER PUBLIC PROOF TASK  
 ![image](https://github.com/Freemandaily/Alignedlayer-Testnet-Proof/blob/main/photo.png)
 
 ## Getting Started
@@ -15,7 +15,7 @@ sudo apt upgrade -y
 ```
 sudo apt-get install curl -y
 ```
-- # login as root user  in your vps,ubuntu,etc
+Consider logining as root user  in your vps,ubuntu,etc
   
 ### Dowload AlignedProof
 ![image](https://github.com/Freemandaily/Alignedlayer-Testnet-Proof/blob/main/aligne-1.png)
@@ -23,7 +23,7 @@ sudo apt-get install curl -y
 ```
 curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/install_aligned.sh | bash
 ```
-# Run This To Use Aligne downloaded
+### Run This To Use Aligne downloaded
 ```
 source /root/.bashrc
 ```
@@ -62,7 +62,7 @@ aligned verify-proof-onchain \
 ```
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Tweet as show in the  image below, using your Explorer link and photo of the verification
+### Tweet as show in the  image below, using your Explorer link and photo of the verification
 ![image](https://github.com/Freemandaily/Alignedlayer-Testnet-Proof/blob/main/tweet.png)
 
 --------------------------------------
